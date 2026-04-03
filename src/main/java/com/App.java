@@ -2,6 +2,6 @@ package com;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Jenkins pipeline test 2");
+        System.out.println("Jenkins pipeline test");
     }
 }
